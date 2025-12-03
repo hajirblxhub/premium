@@ -1,7 +1,7 @@
 -- Master Loader by [PAHAJI HUB] - Loads 3 Scripts Parallel (Bypass Cache Edition)
 local urls = {
-    "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/speed3.lua",  -- Ganti raw URL loader1 lu
-    "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/speed3.lua",  -- loader2
+    "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/data/pahaji.lua",  -- Ganti raw URL loader1 lu
+    "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/data/speed2.lua",  -- loader2
     "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/speed3.lua"   -- loader3
 }
 
