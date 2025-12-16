@@ -1,6 +1,6 @@
 -- Master Loader by [PAHAJI HUB] - Loads 3 Scripts Parallel (Bypass Cache Edition)
 local urls = {
-    "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/pahaji.lua",  -- Ganti raw URL loader1 lu
+    "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/utama",  -- Ganti raw URL loader1 lu
     "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/speed2.lua",  -- loader2
     "https://raw.githubusercontent.com/hajirblxhub/premium/refs/heads/main/pahaji/speed3.lua"   -- loader3
 }
@@ -16,4 +16,4 @@ for i, url in ipairs(urls) do
     end)
 end
 
-print("All 3 Loaders Executed w/ Bypass! ðŸš€")
+print("All 3 Loaders Executed w/ Bypass!")
